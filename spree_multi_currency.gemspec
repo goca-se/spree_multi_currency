@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
   s.require_path = 'lib'
   s.requirements << 'none'
 
-  s.add_runtime_dependency 'goca-spree-backend', '3.1.14.rails.5.0.1'
+  s.add_runtime_dependency 'goca-spree-backend', '3.1.14.rails.5.2.8.1'
 
   s.add_development_dependency 'capybara', '~> 2.15.0'
   s.add_development_dependency 'poltergeist', '~> 1.15.0'
